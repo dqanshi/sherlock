@@ -12,7 +12,7 @@
 
 ```bash
 # clone the repo
-$ git clone https://github.com/sdushantha/sherlock.git
+$ git clone https://github.com/dqanshi/sherlock.git
 
 # change the working directory to sherlock
 $ cd sherlock
